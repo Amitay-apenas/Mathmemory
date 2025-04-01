@@ -4,6 +4,7 @@
 }
 
 body {
+    transition: ease-in-out 1s;
     background-color: hsl(258, 71%, 33%);
 
     display: flex;
@@ -21,6 +22,7 @@ body {
 }
 
 main {
+    transition: ease-in-out 1s;
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center; 
