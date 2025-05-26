@@ -4,15 +4,15 @@ const body_background = document.querySelector('body');
 const main_background = document.querySelector('main');
 const svgIndex = '<img class = "mathIcon"src="./img/mathmemory.svg" alt="mathmemory">';
 const cardArrayOriginal = [
-    { conta: '10/30', resultado: '1/3' },
-    { conta: '15/60', resultado: '1/4' },
-    { conta: '50/150', resultado: '0.33...' },
-    { conta: '1/2', resultado: '0.5' },
+    { conta: '0,60', resultado: '60%' },
+    { conta: '0,25', resultado: '25%' },
+    { conta: '0,90', resultado: '90%' },
+    { conta: '0,10', resultado: '10%' },
     { conta: '0.85', resultado: '85%' },
-    { conta: '0.7', resultado: '70%' },
-    { conta: '25/125', resultado: '1/5' },
-    { conta: '1/ 5', resultado: '0.2' },
-    { conta: '0.934', resultado: '93%' },
+    { conta: '0,70', resultado: '70%' },
+    { conta: '0,50', resultado: '50%' },
+    { conta: '0,15', resultado: '15%' },
+    { conta: '0,45', resultado: '45%' },
     { conta: '100%', resultado: '1.0' }
 ];
 
